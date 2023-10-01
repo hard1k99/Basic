@@ -7,7 +7,7 @@ if height >=120:
     if age <12:
         print("you have to pay 5$.")
     elif age <=18:
-        print("you have to pay 7$.")
+        print("you have to pay 7$.")    
     else:
         print("you have to pay 12$.")      
 else:
